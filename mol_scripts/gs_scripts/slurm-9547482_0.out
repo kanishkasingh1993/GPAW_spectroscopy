@@ -1,0 +1,33 @@
+Ground state has been done
+Ground state energy : -5221.4259 eV
+Ground state has been done
+Ground state energy : -5221.4259 eV
+Ground state has been done
+Ground state energy : -5221.4259 eV
+Ground state has been done
+Ground state energy : -5221.4259 eV
+  State     Energy
+0    -1 -5221.4259
+  State     Energy
+0    -1 -5221.4259
+  State     Energy
+0    -1 -5221.4259
+  State     Energy
+0    -1 -5221.4259
+
+== Epilog Slurmctld ==================================================
+
+Job ID: 9547482
+Array Job ID: 9547482_0
+Cluster: curta
+User/Group: singhk93/agbande
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 4
+CPU Utilized: 01:03:04
+CPU Efficiency: 99.47% of 01:03:24 core-walltime
+Job Wall-clock time: 00:15:51
+Memory Utilized: 908.67 MB
+Memory Efficiency: 22.18% of 4.00 GB
+
+======================================================================

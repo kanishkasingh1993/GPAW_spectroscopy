@@ -1,0 +1,25 @@
+Core Ground state has been done
+Core Ground state energy : -5079.5479 eV
+Core Ground state has been done
+Core Ground state energy : -5079.5479 eV
+Core Ground state has been done
+Core Ground state energy : -5079.5479 eV
+Core Ground state has been done
+Core Ground state energy : -5079.5479 eV
+
+== Epilog Slurmctld ==================================================
+
+Job ID: 9548558
+Array Job ID: 9548556_1
+Cluster: curta
+User/Group: singhk93/agbande
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 4
+CPU Utilized: 01:09:03
+CPU Efficiency: 99.50% of 01:09:24 core-walltime
+Job Wall-clock time: 00:17:21
+Memory Utilized: 866.00 MB
+Memory Efficiency: 21.14% of 4.00 GB
+
+======================================================================

@@ -1,0 +1,27 @@
+Excited state has been done
+Excited state energy : -4938.0273 eV
+   State     Energy
+0     -1 -5221.4259
+   State     Energy
+0     -1 -5221.4259
+   State     Energy
+0     -1 -5221.4259
+   State     Energy
+0     -1 -5221.4259
+
+== Epilog Slurmctld ==================================================
+
+Job ID: 9550091
+Array Job ID: 9550089_1
+Cluster: curta
+User/Group: singhk93/agbande
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 4
+CPU Utilized: 00:57:53
+CPU Efficiency: 98.78% of 00:58:36 core-walltime
+Job Wall-clock time: 00:14:39
+Memory Utilized: 963.55 MB
+Memory Efficiency: 23.52% of 4.00 GB
+
+======================================================================
